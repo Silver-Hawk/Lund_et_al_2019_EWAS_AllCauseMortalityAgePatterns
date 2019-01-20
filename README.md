@@ -184,6 +184,7 @@ See [Figure 2](Figure2.pdf).
 Created using *ggplot2* R-package (https://ggplot2.tidyverse.org/).
 See [Figure 3](Figure3.pdf).
 
-
+### Extras
+Scripts were rewritten for cleaner structure, if any errors arrises as a results of this, please don't hesitate to let me know *jlund (at) health.sdu (dot) dk*.
 
 
