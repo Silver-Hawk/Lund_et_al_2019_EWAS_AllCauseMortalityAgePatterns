@@ -169,14 +169,15 @@ write.csv(x=finalRes, file="cox_results_after_combat.csv")
 ### Figures
 #### Figure 1 
 Created using *CMplot* R-package (url(https://github.com/YinLiLin/R-CMplot)) and *ggplot2* R-package (https://ggplot2.tidyverse.org/). 
-See [Figure 1](Figure1.pdf)
+See [Figure 1](Figure1.pdf).
+
 #### Figure 2
 Created using *fsmb* R-package (https://cran.r-project.org/web/packages/fmsb/index.html).
-See [Figure 2](Figure2.pdf)
+See [Figure 2](Figure2.pdf).
 
 #### Figure 3
 Created using *ggplot2* R-package (https://ggplot2.tidyverse.org/).
-See [Figure 3](Figure3.pdf)
+See [Figure 3](Figure3.pdf).
 
 
 
