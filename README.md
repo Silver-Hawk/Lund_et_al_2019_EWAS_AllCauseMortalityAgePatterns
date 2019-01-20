@@ -108,6 +108,11 @@ merged <- cbind(new_clinical_information, combat_dataframe)
 
 save(merged, file="Combat_adjusted_cohorts.Rda")
 ```
+####Before preprocessing
+![Before]( https://github.com/Silver-Hawk/Lund_et_al_2019_EWAS_AllCauseMortalityAgePatterns/blob/master/Before_preprocessing.png)
+####After preprocessing
+![After]( https://github.com/Silver-Hawk/Lund_et_al_2019_EWAS_AllCauseMortalityAgePatterns/blob/master/After_preprocessing.png)
+
 ### Survival analysis (*Survival_analysis.R*)
 Cox proportional hazard regressions for single CpG survival analysis.  
 ```R
